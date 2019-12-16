@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BezierCurve_node.dir/src/main.cc.o CMakeFiles/BezierCurve_node.dir/src/NumericalMaths.cpp.o  -o ../bin/BezierCurve_node -lboost_system -lboost_filesystem -lboost_iostreams 
